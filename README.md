@@ -1,68 +1,66 @@
-# Darshan9953
-<h1 align="center">Hi 👋, I'm Darshan Nikam</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer | Full Stack Developer | Problem Solver
-</h3>
+# 👋 Hi, I'm Darshan Nikam
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=AI%2FML+Engineer;Full+Stack+Developer;Deep+Learning+Enthusiast;Building+Intelligent+AI+Solutions" />
 
-<p align="center">
 🚀 Building Intelligent AI Solutions | Deep Learning | Computer Vision | Backend Systems
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=Darshan9953&style=flat-square">
+
+</div>
 
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering Student  
-🏫 Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
+🎓 **B.Tech Computer Science & Engineering**  
+🏫 **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
 
 - 🔭 Currently working on **AI/ML & Deep Learning Projects**
+- 🤖 Interested in **Computer Vision, NLP and Intelligent Systems**
 - 🌱 Learning **Generative AI, MLOps & System Design**
-- 🤖 Interested in Computer Vision and Intelligent Systems
-- 💻 Love building real-world scalable applications
-- ⚡ Passionate about solving complex engineering problems
+- 💻 Building scalable AI-powered applications
+- ⚡ Passionate about research, innovation and problem solving
 
 
 ---
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 
-### Languages
+## 💻 Languages
 
-`Python` `C++` `JavaScript` `SQL`
-
-
-### AI / Machine Learning
-
-`PyTorch`
-`TensorFlow`
-`Scikit-Learn`
-`XGBoost`
-`OpenCV`
-`NLP`
-`Deep Learning`
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
 
-### Development
+## 🤖 AI / Machine Learning
 
-`React.js`
-`Node.js`
-`Express.js`
-`FastAPI`
-`Flask`
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge)
 
 
-### Database & Tools
+## 🌐 Development
 
-`PostgreSQL`
-`MongoDB`
-`Docker`
-`Git`
-`GitHub`
-`Linux`
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+
+
+## 🗄 Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
 ---
@@ -73,14 +71,12 @@ AI/ML Engineer | Full Stack Developer | Problem Solver
 
 ## 🚦 SyncTLC — Multi-Agent DRL Traffic Signal Control
 
+**Tech:** Python | PyTorch | SUMO | TraCI | LSTM
 
-**Tech Stack:** Python | PyTorch | SUMO | TraCI
-
-
-- Designed Multi-Agent DRL framework using **MARDDPG + LSTM**
-- Integrated real-time traffic simulation using **SUMO & TraCI**
-- Developed Traffic Pressure Index for congestion control
-- Achieved **26% lower queue length and 14% waiting time reduction**
+- Developed intelligent traffic optimization system using **MARDDPG + LSTM**
+- Integrated SUMO & TraCI for realistic traffic simulations
+- Designed Traffic Pressure Index (TPI) for congestion-aware decisions
+- Achieved **26% lower queue length & 14% reduced waiting time**
 
 
 ---
@@ -88,14 +84,13 @@ AI/ML Engineer | Full Stack Developer | Problem Solver
 
 ## 🏥 AI Medical Diagnosis Assistant
 
+**Tech:** Python | CNN | TensorFlow | XGBoost | Flask
 
-**Tech Stack:** Python | CNN | XGBoost | Flask | TensorFlow
 
-
-- Built AI diagnosis assistant combining image and structured medical data
-- Implemented CNN models for disease prediction
-- Developed REST APIs for ML model deployment
-- Integrated SHAP explainability for transparent AI decisions
+- Built multi-modal healthcare prediction system
+- Implemented CNN-based medical image classification
+- Integrated REST APIs for AI model deployment
+- Added SHAP explainability for transparent predictions
 
 
 ---
@@ -103,14 +98,13 @@ AI/ML Engineer | Full Stack Developer | Problem Solver
 
 ## 📊 Distributed Log Anomaly Detection System
 
+**Tech:** Python | Transformers | LogBERT | ELK Stack
 
-**Tech Stack:** Python | Transformer | LogBERT | ELK Stack
 
-
-- Built real-time log anomaly detection system
-- Processed 1M+ logs using scalable pipelines
-- Implemented Transformer based LogBERT model
-- Reduced incident detection time by 45%
+- Developed real-time system anomaly detection pipeline
+- Processed 1M+ logs for abnormal behavior detection
+- Implemented Transformer-based LogBERT model
+- Improved incident detection efficiency by 45%
 
 
 ---
@@ -119,53 +113,71 @@ AI/ML Engineer | Full Stack Developer | Problem Solver
 ## 🔐 FinSafe — Secure Financial Data Platform
 
 
-**Tech Stack:** React | FastAPI | PostgreSQL | Blockchain
+**Tech:** React | FastAPI | PostgreSQL | Blockchain | ML
 
 
-- Developed privacy-preserving fintech platform
-- Implemented consent-based data sharing
-- Added ML anomaly detection system
-- Designed scalable backend APIs
-
-
----
-
-
-## 🏆 Achievements
-
-
-🥈 Walmart Sparkathon 2025 : Participated in national-level innovation and technology challenge.
-
-🥈 Agentic AI Day– Hack2Skill Challenge : Competed in AI-focused national hackathon
-
-🥈 ISRO Hackathon 2025 : Collaborated in a national-level ISRO hackathon.
-
-💻 Solved 150+ DSA problems on coding platforms  
+- Created privacy-preserving fintech data platform
+- Implemented consent-based secure data sharing
+- Integrated ML anomaly detection
+- Designed scalable backend architecture
 
 
 ---
 
 
-## 📊 GitHub Stats
+# 🏆 Achievements
 
 
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan9953&show_icons=true&theme=tokyonight)
+🏅 Walmart Sparkathon 2025  
+National level innovation & technology challenge participant
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9953&layout=compact&theme=tokyonight)
+🤖 Agentic AI Day — Hack2Skill Challenge  
+Competed in AI-based national hackathon
+
+
+🚀 ISRO Hackathon 2025  
+Worked on innovative space-tech solutions
+
+
+💻 Solved 150+ DSA problems
 
 
 ---
 
-## 🌐 Connect With Me
+
+# 📊 GitHub Analytics
 
 
-🔗 LinkedIn: https://www.linkedin.com/in/darshan-nikam-9953abc/
+<img src="https://github-readme-stats.vercel.app/api?username=Darshan9953&show_icons=true&theme=tokyonight">
 
-💻 GitHub: [github.com/Darshan9953](https://github.com/Darshan9953)
 
-📧 Email: nikamdarshan9953@gmail.com
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan9953&theme=tokyonight">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9953&layout=compact&theme=tokyonight">
+
 
 ---
 
-⭐ Always learning. Always building.
+
+# 🌐 Connect With Me
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshan-nikam-9953abc/)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Darshan9953)
+
+
+📧 **Email:**  
+**nikamdarshan9953@gmail.com**
+
+
+---
+
+<div align="center">
+
+⭐ **Always Learning | Always Building 🚀**
+
+</div>
