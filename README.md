@@ -139,6 +139,6 @@ Secure fintech platform enabling privacy-first financial data exchange.
 
 🔗 LinkedIn: https://www.linkedin.com/in/darshan-nikam-9953abc/
 
-💻 GitHub: github.com/Darshan9953
+💻 GitHub: [github.com/Darshan9953](https://github.com/Darshan9953)
 
 📧 Email: nikamdarshan9953@gmail.com
