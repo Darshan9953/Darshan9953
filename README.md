@@ -151,30 +151,7 @@ Worked on innovative space-tech solutions
 <div align="center">
 
 <img 
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=darshan9953&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-
-<br><br>
-
-
-<img 
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=darshan9953&theme=tokyonight"
-/>
-
-
-<br><br>
-
-
-<img 
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan9953&theme=tokyonight&layout=compact"
-/>
-
-
-</div>
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details
 
 ---
 
