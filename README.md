@@ -148,26 +148,30 @@ Worked on innovative space-tech solutions
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=Darshan9953&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
 
-<img width="48%" 
-src="https://github-readme-streak-stats-eight.vercel.app/?user=Darshan9953&theme=tokyonight&hide_border=true" />
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Darshan9953&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
-</p>
+<br><br>
 
 
-<p align="center">
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan9953&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9953&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+<br><br>
 
+
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Darshan9953&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+---
 
 # 🌐 Connect With Me
 
