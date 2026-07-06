@@ -2,139 +2,162 @@
 <h1 align="center">Hi 👋, I'm Darshan Nikam</h1>
 
 <h3 align="center">
-AI/ML Developer | Full Stack Developer | CSE @ RGIPT
+AI/ML Engineer | Full Stack Developer | Problem Solver
 </h3>
 
 
----
-
-## 🚀 About Me
-
-🎓 Computer Science Engineering Student at RGIPT  
-🤖 Passionate about AI, Machine Learning & Software Development  
-🌱 Currently exploring Generative AI & Scalable Systems  
-🏆 Hackathon Enthusiast  
-💡 Love building real-world tech solutions
+<p align="center">
+🚀 Building Intelligent AI Solutions | Deep Learning | Computer Vision | Backend Systems
+</p>
 
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science & Engineering Student  
+🏫 Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
+
+- 🔭 Currently working on **AI/ML & Deep Learning Projects**
+- 🌱 Learning **Generative AI, MLOps & System Design**
+- 🤖 Interested in Computer Vision and Intelligent Systems
+- 💻 Love building real-world scalable applications
+- ⚡ Passionate about solving complex engineering problems
+
+
+---
+
+## 🛠️ Tech Stack
 
 
 ### Languages
-🐍 Python  
-💻 C++  
-🌐 JavaScript  
-🗄 SQL
+
+`Python` `C++` `JavaScript` `SQL`
 
 
-### AI / ML
+### AI / Machine Learning
 
-- PyTorch
-- Scikit-Learn
-- XGBoost
-- OpenCV
-- Machine Learning
-- Deep Learning
-
-
-### Full Stack
-
-- React.js
-- Node.js
-- FastAPI
-- HTML/CSS
+`PyTorch`
+`TensorFlow`
+`Scikit-Learn`
+`XGBoost`
+`OpenCV`
+`NLP`
+`Deep Learning`
 
 
-### Databases
+### Development
 
-- PostgreSQL
-- MongoDB
-- MySQL
+`React.js`
+`Node.js`
+`Express.js`
+`FastAPI`
+`Flask`
 
 
-### Tools
+### Database & Tools
 
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
+`PostgreSQL`
+`MongoDB`
+`Docker`
+`Git`
+`GitHub`
+`Linux`
 
 
 ---
 
-## 🚀 Featured Projects
+
+# 🚀 Featured Projects
 
 
-### 🚦 SyncTLC — Multi-Agent DRL Traffic Signal Control
+## 🚦 SyncTLC — Multi-Agent DRL Traffic Signal Control
 
-AI-powered adaptive traffic signal optimization system using Deep Reinforcement Learning.
 
-**Tech Stack:** Python | PyTorch | SUMO | TraCI | LSTM
+**Tech Stack:** Python | PyTorch | SUMO | TraCI
 
-- Designed a Multi-Agent Deep Reinforcement Learning framework using **MARDDPG + LSTM** for adaptive traffic control.
-- Integrated real-time traffic simulation using **SUMO and TraCI**.
-- Proposed **Traffic Pressure Index (TPI)** for congestion-aware signal optimization.
-- Achieved **26% reduction in queue length** and **14% lower waiting time** compared to baseline methods.
+
+- Designed Multi-Agent DRL framework using **MARDDPG + LSTM**
+- Integrated real-time traffic simulation using **SUMO & TraCI**
+- Developed Traffic Pressure Index for congestion control
+- Achieved **26% lower queue length and 14% waiting time reduction**
 
 
 ---
 
-### 🏥 AI Medical Diagnosis Assistant (Multi-Modal ML)
 
-Machine Learning based healthcare diagnosis assistant combining medical imaging and structured data.
+## 🏥 AI Medical Diagnosis Assistant
+
 
 **Tech Stack:** Python | CNN | XGBoost | Flask | TensorFlow
 
-- Developed an AI diagnosis assistant using **CNN-based image classification models**.
-- Combined medical image analysis with structured patient data for disease prediction.
-- Achieved **90%+ accuracy** on benchmark healthcare datasets.
-- Built REST APIs for model deployment and integrated **SHAP explainability** for transparent predictions.
+
+- Built AI diagnosis assistant combining image and structured medical data
+- Implemented CNN models for disease prediction
+- Developed REST APIs for ML model deployment
+- Integrated SHAP explainability for transparent AI decisions
 
 
 ---
 
-### 📊 Distributed Log Anomaly Detection System
 
-AI-powered system monitoring platform for detecting abnormal logs and failures.
+## 📊 Distributed Log Anomaly Detection System
 
-**Tech Stack:** Python | CNN | XGBoost | Flask | TensorFlow | ELK Stack
 
-- Designed a real-time anomaly detection pipeline using **Transformer-based models (LogBERT)**.
-- Processed and analyzed **1M+ system logs** using scalable data pipelines.
-- Integrated **ELK Stack** for log ingestion, monitoring, and visualization.
-- Reduced incident detection time by **45%** and improved system reliability.
+**Tech Stack:** Python | Transformer | LogBERT | ELK Stack
+
+
+- Built real-time log anomaly detection system
+- Processed 1M+ logs using scalable pipelines
+- Implemented Transformer based LogBERT model
+- Reduced incident detection time by 45%
+
+
+---
+
+
+## 🔐 FinSafe — Secure Financial Data Platform
+
+
+**Tech Stack:** React | FastAPI | PostgreSQL | Blockchain
+
+
+- Developed privacy-preserving fintech platform
+- Implemented consent-based data sharing
+- Added ML anomaly detection system
+- Designed scalable backend APIs
 
 
 ---
 
-### 🔐 FinSafe — Privacy Preserving Financial Data Sharing Platform
 
-Secure fintech platform enabling privacy-first financial data exchange.
+## 🏆 Achievements
 
-**Tech Stack:** React.js | FastAPI | PostgreSQL | Blockchain | ML
 
-- Developed consent-driven financial data sharing platform.
-- Implemented secure logging and tokenization techniques.
-- Built ML-based anomaly detection for identifying suspicious activities.
-- Designed scalable backend services with FastAPI and PostgreSQL.
+🥈 Walmart Sparkathon 2025 : Participated in national-level innovation and technology challenge.
+
+🥈 Agentic AI Day– Hack2Skill Challenge : Competed in AI-focused national hackathon
+
+🥈 ISRO Hackathon 2025 : Collaborated in a national-level ISRO hackathon.
+
+💻 Solved 150+ DSA problems on coding platforms  
 
 
 ---
+
 
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan9953&show_icons=true)
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan9953&show_icons=true&theme=tokyonight)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9953&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9953&layout=compact&theme=tokyonight)
 
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 
 🔗 LinkedIn: https://www.linkedin.com/in/darshan-nikam-9953abc/
@@ -142,3 +165,7 @@ Secure fintech platform enabling privacy-first financial data exchange.
 💻 GitHub: [github.com/Darshan9953](https://github.com/Darshan9953)
 
 📧 Email: nikamdarshan9953@gmail.com
+
+---
+
+⭐ Always learning. Always building.
